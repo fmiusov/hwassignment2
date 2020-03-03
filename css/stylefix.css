@@ -1,3 +1,6 @@
 .navbar {
     background-color: rgb(89,170,165);
 }
+.navbar-brand {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
