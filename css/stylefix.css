@@ -1,16 +1,24 @@
-.navbar {
-    background-color: rgb(89,170,165);
+body {
+  background-image: url(https://image.freepik.com/free-photo/old-brown-paper-texture_87498-356.jpg);
 }
-.navbar-brand {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+.navbar {
+  background-color: rgb(89, 170, 165);
+}
+.navbar-custom {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 .nav {
-    background-color: white;
+  background-color: white;
 }
-body {
-    background-image: url(https://i2.wp.com/files.123freevectors.com/wp-content/original/126457-parchment-texture-background.jpg);
-    
+.card {
+  margin-top: 5%;
+  margin-bottom: 40%;
+}
+.card-about-me {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: rgb(89, 170, 165);
+  border-bottom: 2px solid lightgray;
 }
 .card-body {
-    background-color: white;
+  background-color: white;
 }
