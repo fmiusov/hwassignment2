@@ -19,7 +19,7 @@ body {
   border-bottom: 3px solid lightgray;
 }
 .nav-item {
-  padding:1rem;
+  padding: 1rem;
 }
 .nav-link {
   color: black;
@@ -38,12 +38,26 @@ body {
   padding-bottom: 3%;
 }
 .img-fluid {
-  max-width: 100%;
+  width: 100%;
   height: auto;
 }
+.dfw-img {
+  max-height: auto;
+  padding: 1rem;
+}
+.caption {
+  position: absolute;
+  top: 80%;
+  padding: 2%;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  width: 90%;
+  color: white;
+  text-align: center;
+  background-color: rgb(89, 170, 165);
+}
 .btn-primary {
-    background-color:  rgb(89, 170, 165);
-    border: none;
+  background-color: rgb(89, 170, 165);
+  border: none;
 }
 .foot {
   background-color: slategray;
