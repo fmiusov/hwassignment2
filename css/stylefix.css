@@ -2,12 +2,14 @@ body {
   background-image: url(http://www.photos-public-domain.com/wp-content/uploads/2012/05/ivory-off-white-paper-texture.jpg);
 }
 .navbar {
-  background-color: rgb(89, 170, 165);
+  width: 100%;
 }
 .navbar-custom {
+  background-color: rgb(89, 170, 165);
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 .nav {
+  float: left;
   background-color: white;
 }
 .card {
