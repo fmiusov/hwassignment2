@@ -4,25 +4,42 @@ body {
 .navbar {
   width: 100%;
 }
-.navbar-custom {
-  background-color: rgb(89, 170, 165);
+.navbar-brand {
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.text-white {
+  background-color: rgb(89, 170, 165);
+  padding: 3%;
 }
 .nav {
   float: left;
   background-color: white;
 }
-.card {
-  margin-top: 5%;
-  margin-bottom: 60%;
+.navborder {
+  border-bottom: 3px solid lightgray;
+}
+.nav-item {
+  padding:1rem;
+}
+.nav-link {
+  color: black;
 }
 .card-about-me {
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   color: rgb(89, 170, 165);
   border-bottom: 2px solid lightgray;
+  padding-bottom: 3px;
 }
-.card-body {
+.container {
   background-color: white;
+  margin-top: 5%;
+  margin-bottom: 60%;
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+.img-fluid {
+  max-width: 100%;
+  height: auto;
 }
 .btn-primary {
     background-color:  rgb(89, 170, 165);
