@@ -1,0 +1,24 @@
+body {
+  background-image: url(http://www.photos-public-domain.com/wp-content/uploads/2012/05/ivory-off-white-paper-texture.jpg);
+}
+.navbar {
+  background-color: rgb(89, 170, 165);
+}
+.navbar-custom {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.nav {
+  background-color: white;
+}
+.card {
+  margin-top: 5%;
+  margin-bottom: 40%;
+}
+.card-about-me {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: rgb(89, 170, 165);
+  border-bottom: 2px solid lightgray;
+}
+.card-body {
+  background-color: white;
+}
