@@ -12,7 +12,7 @@ body {
 }
 .card {
   margin-top: 5%;
-  margin-bottom: 40%;
+  margin-bottom: 60%;
 }
 .card-about-me {
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
@@ -25,4 +25,13 @@ body {
 .btn-primary {
     background-color:  rgb(89, 170, 165);
     border: none;
+}
+.foot {
+  background-color: slategray;
+  border-top: 10px solid rgb(89, 170, 165);
+}
+.foot p {
+  color: white;
+  text-align: center;
+  padding: 3%;
 }
