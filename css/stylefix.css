@@ -38,7 +38,7 @@ body {
   padding-bottom: 3%;
 }
 .img-fluid {
-  width: 100%;
+  width: 75%;
   height: auto;
 }
 #openingimg {
@@ -53,7 +53,7 @@ body {
   top: 80%;
   padding: 2%;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
-  width: 90%;
+  width: 75%;
   color: white;
   text-align: center;
   background-color: rgb(89, 170, 165);
